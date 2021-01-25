@@ -1,0 +1,5 @@
+product\ProductDAO.class
+product\Product.class
+web\ProductServl.class
+product\ProductDAOImpl.class
+product\GenericDAO.class
